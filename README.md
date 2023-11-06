@@ -1,2 +1,16 @@
 # 👋 Hi there!
-I'm currently pursuing a Master's degree in Distributed Systems and I absolutely love tackling tough challenges. 💪 I have a deep understanding of how computers and the internet work, and I'm always eager to learn more about emerging technologies. 🤖 I'm particularly passionate about machine learning, deep learning, and artificial intelligence, and I love exploring new applications for these technologies. 📚 When I'm not busy with school or work, you can usually find me reading science fiction novels or indulging my passion for photography. 📷 Thanks for stopping by my page!
+My name is Daniel. I'm a student in computer science, soon to be a graduate in distributed systems 😄 . I'm a very curious person. I'm trying to figure out my place on this pale blue dot 🌍⭐.
+
+# What I'm about ❓
+This is what I do in my free time:
+- Writing my own sci-fi book 📖👽
+- Becoming an AI master 🤖🤖🤖
+- Writing a tool for automatic detection of possible fraud regarding government contracts 😕💸🏛️
+- Building the real-life version of psychohistory, aka a mathematical framework to model societal trends at a macro level 🚀🚀🚀
+- Watching anime 🐼
+  
+Also, at the moment, I'm trying to contribute to the **RawTherapee** open source project as I love photography 📷 and I feel like I need to give something back to the community 🧑‍🤝‍🧑🧑‍🤝‍🧑.
+
+# Contact
+If you are interested in any of my projects and if you feel like connecting, here is my email: `matei.georged@outlook.com`
+
